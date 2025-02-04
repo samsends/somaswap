@@ -13,3 +13,6 @@ out/
 docs/
 
 
+# Added by cargo
+
+/target
